@@ -1,2 +1,2 @@
 # Music-Drum
- Play sound by click keys. It define your knowledge about DOM handling
+ Play sound by click keys. I build this by using pure JS. DOM, functions adn if-else.
